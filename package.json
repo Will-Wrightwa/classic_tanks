@@ -1,0 +1,36 @@
+{
+  "name": "classic_tanks",
+  "version": "1.0.0",
+  "description": "Classic Tanks Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Will-Wrightwa/classic_tanks.git"
+  },
+  "author": "Will Wright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Will-Wrightwa/classic_tanks/issues"
+  },
+  "homepage": "https://github.com/Will-Wrightwa/classic_tanks#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^4.1.1",
+    "redux": "^3.6.0",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.1",
+    "webpack": "^2.5.0"
+  }
+}
